@@ -1,5 +1,5 @@
-const firstNum = 123;
-const secondNum = 432;
+const firstNum = 15;
+const secondNum = 56.22;
 
 const summaryNum = firstNum + secondNum;
 const averageNum = summaryNum / 2;
